@@ -1,5 +1,6 @@
 import pandas as pd
 from src.db.connection import get_engine
+from src.utils.utils import testprint
 
 def load_sql_file(path):
     with open(path, "r") as f:

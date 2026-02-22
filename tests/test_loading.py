@@ -1,11 +1,10 @@
-# tests: data validation
+# tests: data loading
+# pytest -v
 
 from src.data_loading.load_data import fetch_dataframe
 
 
-def test_amount_positive():
-
+def test_dataframe_not_empty():
     # df = fetch_dataframe("sql/test_query.sql")
-
-    # assert (df["SEASON"] >= 0).all()
+    # assert len(df) > 0
     pass

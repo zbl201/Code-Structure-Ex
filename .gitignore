@@ -1,5 +1,11 @@
+
+# Files
 .venv
 .pytest_cache
 .git
 .env
+
+misc.txt
+
+# Folders
 __pycache__/
