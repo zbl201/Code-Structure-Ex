@@ -1,0 +1,22 @@
+       PLAYER_NAME  SEASON ABBREVIATION NICKNAME
+ Cristiano Felicio    2019          CHI    Bulls
+         Kris Dunn    2019          CHI    Bulls
+  Denzel Valentine    2019          CHI    Bulls
+  Ryan Arcidiacono    2019          CHI    Bulls
+Shaquille Harrison    2019          CHI    Bulls
+   Lauri Markkanen    2019          CHI    Bulls
+       Luke Kornet    2019          CHI    Bulls
+      Milton Doyle    2019          CHI    Bulls
+Wendell Carter Jr.    2019          CHI    Bulls
+Chandler Hutchison    2019          CHI    Bulls
+         Max Strus    2019          CHI    Bulls
+        Coby White    2019          CHI    Bulls
+    Daniel Gafford    2019          CHI    Bulls
+   Simisola Shittu    2019          CHI    Bulls
+       Adam Mokoka    2019          CHI    Bulls
+      Justin Simon    2019          CHI    Bulls
+Perrion Callandret    2019          CHI    Bulls
+    Thaddeus Young    2019          CHI    Bulls
+  Tomas Satoransky    2019          CHI    Bulls
+   Otto Porter Jr.    2019          CHI    Bulls
+       Zach LaVine    2019          CHI    Bulls

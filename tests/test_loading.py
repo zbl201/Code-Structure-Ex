@@ -1,7 +1,7 @@
 # tests: data loading
 # pytest -v
 
-from src.data_loading.load_data import fetch_dataframe
+from src.data_loading.load_sql import fetch_dataframe
 
 
 def test_dataframe_not_empty():

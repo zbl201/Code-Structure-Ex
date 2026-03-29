@@ -1,0 +1,21 @@
+      State District           Market                     Commodity            Variety  Grade Arrival_Date  Min_Price  Max_Price  Modal_Price  Commodity_Code Source_File
+  Karnataka  Dharwad Hubli (Amaragol)     Bengal Gram (Gram)(Whole)    Average (Whole)    FAQ   2001-01-10     1400.0     1400.0       1400.0               6    2001.csv
+  Karnataka  Dharwad Hubli (Amaragol) Black Gram (Urd Beans)(Whole) Black Gram (Whole)    FAQ   2001-01-10     1380.0     1380.0       1380.0               8    2001.csv
+  Karnataka  Dharwad Hubli (Amaragol)     Green Gram (Moong)(Whole)      Green (Whole)    FAQ   2001-01-10     1600.0     1900.0       1800.0               9    2001.csv
+  Karnataka  Dharwad Hubli (Amaragol)                     Groundnut              Gejje    FAQ   2001-01-10      601.0     1181.0       1105.0              10    2001.csv
+  Karnataka  Dharwad Hubli (Amaragol)                         Maize              Local    FAQ   2001-01-10      420.0      445.0        440.0               4    2001.csv
+  Karnataka  Dharwad Hubli (Amaragol)                         Onion             Telagi    FAQ   2001-01-10       50.0      300.0        250.0              23    2001.csv
+  Karnataka  Dharwad Hubli (Amaragol)                         Onion              Local    FAQ   2001-01-10       50.0      250.0        230.0              23    2001.csv
+  Karnataka  Dharwad Hubli (Amaragol)                         Onion               Puna    FAQ   2001-01-10      150.0      350.0        280.0              23    2001.csv
+  Karnataka  Dharwad Hubli (Amaragol)                        Potato             Potato    FAQ   2001-01-10      380.0      850.0        600.0              24    2001.csv
+  Karnataka  Dharwad Hubli (Amaragol)                     Same/Savi    Same/Savi Local    FAQ   2001-01-10      771.0      771.0        771.0             122    2001.csv
+  Karnataka  Dharwad Hubli (Amaragol)                     Sunflower          Sunflower    FAQ   2001-01-10     1409.0     1409.0       1409.0              14    2001.csv
+  Karnataka  Dharwad Hubli (Amaragol)                         Wheat              White    FAQ   2001-01-10      771.0      771.0        771.0               1    2001.csv
+Maharashtra Kolhapur         Kolhapur                       Brinjal              Round    FAQ   2001-01-27      400.0      750.0        575.0              35    2001.csv
+Maharashtra Kolhapur         Kolhapur                   Cauliflower              Other    FAQ   2001-01-27       90.0      225.0        150.0              34    2001.csv
+Maharashtra Kolhapur         Kolhapur            Coriander (Leaves)              Local    FAQ   2001-01-27      600.0     1000.0        800.0              43    2001.csv
+Maharashtra Kolhapur         Kolhapur                        Grapes              Green Medium   2001-01-27     1200.0     2500.0       1850.0              22    2001.csv
+Maharashtra Kolhapur         Kolhapur                        Orange            Nagpuri Medium   2001-01-27      800.0     1100.0        950.0              18    2001.csv
+Maharashtra Kolhapur         Kolhapur                     Pineapple              Other  Small   2001-01-27      210.0      560.0        400.0              21    2001.csv
+Maharashtra Kolhapur         Kolhapur                         Apple           Red Gold Medium   2001-02-08     1750.0     4000.0       2875.0              17    2001.csv
+Maharashtra Kolhapur         Kolhapur                       Brinjal              Round    FAQ   2001-02-08      500.0     1060.0        775.0              35    2001.csv

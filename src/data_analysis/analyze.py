@@ -1,4 +1,5 @@
-def summarize_amount(df):
-    return {
-        "row_count": len(df),
-    }
+
+
+
+def analyze(df):
+    return df

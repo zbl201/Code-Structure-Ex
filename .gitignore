@@ -9,3 +9,6 @@ misc.txt
 
 # Folders
 __pycache__/
+
+# Data
+*.csv
